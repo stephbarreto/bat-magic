@@ -1,2 +1,2 @@
-# spaceshooter
-Um joguinho de nave.
+# Bat-Magic
+Jogo do morceguinho, baseado no joguinho da nave.
